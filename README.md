@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on C++, Redis
-- 🌱 I’m currently learning Golang
+- 🔭 Languages: C++ > Golang, Python > Java
+- 🌱 I’m currently learning Java
 
 ![LoveBettygirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveBettygirl&show_icons=true&theme=radical)
 
